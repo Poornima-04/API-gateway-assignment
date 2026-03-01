@@ -18,7 +18,7 @@ https://s5p2ay9de5.execute-api.ap-south-1.amazonaws.com/v1
 
 ---
 
-## Route 1 – /json/todos
+## Route 1 – /json/{todo}
 
 **Backend API:** JSONPlaceholder  
 **Integration Type:** HTTP Proxy
@@ -53,7 +53,7 @@ Expected Result: Returns weather details for the specified coordinates.
 
 ---
 
-## Route 3 – /countries/japan
+## Route 3 – /countries/{name}
 
 **Backend API:** REST Countries  
 **Integration Type:** Path parameter forwarding
