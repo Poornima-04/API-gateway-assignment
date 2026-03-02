@@ -127,7 +127,7 @@ terraform apply
 
 After successful deployment:
 
-invoke_url = https://q080p77vn1.execute-api.ap-south-1.amazonaws.com/v1
+invoke_url = https://59z84f5isb.execute-api.ap-south-1.amazonaws.com/v1
 
 ---
 
